@@ -1,0 +1,9 @@
+name=tel. 8(044)361-10-90
+&slogan=sport-MIX
+&url1=http://sportmix.com.ua/index.htm
+&url2=http://sportmix.com.ua/html/prise.htm
+&url3=mailto:postmaster@sportmix.com.ua
+&url4=#
+&url5=#
+&iurl1=#
+&enddata=1
